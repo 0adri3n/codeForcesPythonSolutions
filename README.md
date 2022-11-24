@@ -8,3 +8,5 @@ to find the problems go to the <a href="https://codeforces.com/problemset?order=
 
 
 ## my goal is to progress nd resolve some probs when i have free time. i guess one day ill be blocked but fck it, lets try :)
+
+# my <a href="https://codeforces.com/profile/w3d0ntTalkanym0r3">profile</a>
