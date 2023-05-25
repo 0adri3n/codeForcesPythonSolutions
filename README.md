@@ -1,5 +1,5 @@
 # codeForcesPythonSoluces
-my solutions to codeforces's problems writed in Python. oftenly updated !
+my solutions to codeforces's problems writed in Python.
 
 to find the problems go to the <a href="https://codeforces.com/problemset?order=BY_RATING_ASC">problem set</a> webpage, sorted by ascending order like this :
 
