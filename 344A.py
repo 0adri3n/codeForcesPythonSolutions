@@ -1,12 +1,11 @@
-n=int(input())
-magnets=[]
-for i in range(n):
-    magnet=input()
-    magnets.append(magnet)
+grp = 0
+av = ""
 
-group=1
-for i in range(len(magnets)-1):
-    if magnets[i]!=magnets[i+1]:
-        group+=1
+for _ in range(int(input())):
+    mtn = input()
+    if mtn != av:
+        grp+=1
+        av=mtn
+print(grp)    
 
-print(group)
+# WRITED IN JAVA CUZ OF TIME LIMIT EXCEDEED ON TEST 7

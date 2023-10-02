@@ -1,10 +1,10 @@
-n = input()
-line = list(map(int, input().split(" ")))
-minimum = min(line)
-maximum = max(line)
-count = line.index(maximum)
-line.pop(count)
-line.insert(0, count)
-line.reverse()
-count += line.index(minimum)
-print(count)
+n=int(input())
+s=list(map(int, input().split()))
+
+sorteds=s
+sorteds.sort(reverse=True)
+
+dist=0
+dist+=len(s)-1-s.index(sorteds[len(s)-1])
+dist+=len(s)-1-s.index(sorteds[0])
+print(dist)

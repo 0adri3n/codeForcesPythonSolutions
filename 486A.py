@@ -5,4 +5,5 @@ for i in range(n+1):
         s+=i
     else:
         s-=i
+        
 print(s)
